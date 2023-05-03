@@ -1,20 +1,20 @@
-p {font-family:garamond;}
-th {font-family:garamond;}
-td {font-family:garamond;}
-.con {width:1000px; height:auto; margin:auto;text-align:center;font-family:garamond;}
+th, td, p {
+  font-family:times new roman;
+}
+.con {width:1000px; height:auto; margin:auto;text-align:center;font-family:times new roman;}
 .con2 {width:600px; height:auto; margin:auto;text-align:center;display:flex;}
 .fle {width:calc(16%);}
 
 
-.whi {color:#9999cc;font-weight:bold;font-family:garamond;}
-.pin {color:#6699ff;font-weight:bold;font-family:garamond;}
-.lar {color:#787878;font-weight:bold;font-family:garamond;}
-.cro {color:#ff6699;font-weight:bold;font-family:garamond;}
-.wil {color:#6abcde;font-weight:bold;font-family:garamond;}
-.pop {color:#669966;font-weight:bold;font-family:garamond;}
-.whi2 {color:#9999cc;font-family:garamond;}
-.pin2 {color:#6699ff;font-family:garamond;}
-.lar2 {color:#787878;font-family:garamond;}
-.cro2 {color:#ff6699;font-family:garamond;}
-.wil2 {color:#6abcde;font-family:garamond;}
-.pop2 {color:#669966;font-family:garamond;}
+.whi {color:#9999cc;font-weight:bold;font-family:times new roman;}
+.pin {color:#6699ff;font-weight:bold;font-family:times new roman;}
+.lar {color:#787878;font-weight:bold;font-family:times new roman;}
+.cro {color:#ff6699;font-weight:bold;font-family:times new roman;}
+.wil {color:#6abcde;font-weight:bold;font-family:times new roman;}
+.pop {color:#669966;font-weight:bold;font-family:times new roman;}
+.whi2 {color:#9999cc;font-family:times new roman;}
+.pin2 {color:#6699ff;font-family:times new roman;}
+.lar2 {color:#787878;font-family:times new roman;}
+.cro2 {color:#ff6699;font-family:times new roman;}
+.wil2 {color:#6abcde;font-family:times new roman;}
+.pop2 {color:#669966;font-family:times new roman;}
