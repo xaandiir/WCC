@@ -1,0 +1,39 @@
+body {
+    font-family: garamond;
+}
+
+p {
+    line-height:0%;
+}
+
+.c {
+    width:1000px; 
+    height:auto; 
+    margin:auto;
+    text-align:center;
+}
+
+.c2 {
+    width:800px;
+    height:auto;
+    margin:auto;
+    text-align:center;
+    display:flex;
+}
+
+.f {
+    width:calc(16%);
+}
+
+.w {color:#9999cc;font-weight:bold;line-height:1;}
+.p {color:#6699ff;font-weight:bold;}
+.l {color:#787878;font-weight:bold;}
+.cr {color:#ff6699;font-weight:bold;}
+.wi {color:#6abcde;font-weight:bold;}
+.po {color:#669966;font-weight:bold;}
+.w2 {color:#9999cc;}
+.p2 {color:#6699ff;}
+.l2 {color:#787878;}
+.cr2 {color:#ff6699;}
+.wi2 {color:#6abcde;}
+.po2 {color:#669966;}
