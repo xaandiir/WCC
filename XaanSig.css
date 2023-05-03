@@ -1,4 +1,6 @@
-p {line-height:0%;font-family:garamond;}
+p {font-family:garamond;}
+th {font-family:garamond;}
+td {font-family:garamond;}
 .con {width:1000px; height:auto; margin:auto;text-align:center;font-family:garamond;}
 .con2 {width:800px; height:auto; margin:auto;text-align:center;display:flex;}
 .fle {width:calc(16%);}
