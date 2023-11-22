@@ -1,5 +1,5 @@
 .xa {font-family: 'Times New Roman'; width:800px; height:auto; margin:auto;text-align:center;font-weight:bold;display:flex;flex-wrap:wrap;}
-.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/JGMTjEm.png);background-size: cover;flex-basis: 100%;width: 800px;height: auto;flex-grow: 1;}
+.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/JGMTjEm.png);background-size: cover;flex-basis: 100%;width: 1000px;height: 250px;flex-grow: 1;}
 .xb {font-family: 'Times New Roman'; display:block; text-align:center; width: 800px; flex-grow: 1;}
 
 .xa .fl {font-weight:normal;width:calc(800px / 6);}
