@@ -1,17 +1,17 @@
-.xa {font-family: 'Times New Roman'; width:900px; height:auto; margin:auto;text-align:center;font-weight:bold;display:flex;flex-wrap:wrap;}
-.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/wYPwdxK.png);background-size: contain; background-repeat:no-repeat;flex-basis: 100%;width: 850px;height: 243px;flex-grow: 1;}
+.xa {font-family: 'Times New Roman'; width:900px; height:auto; margin:auto;text-align:center;font-weight:bold;display:flex;flex-wrap:wrap; justify-content:center;}
+.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/zsQFdwN.png);background-size: contain; background-repeat:no-repeat;background-position:center; flex-basis: 100%;width: 850px;height: 304px; flex-grow: 1;}
 .xb {font-family: 'Times New Roman'; display:block; text-align:center; width: 900px; flex-grow: 1;}
 
-.xa .fl {font-weight:normal;width:calc(850px / 7);}
+.xa .fl {font-weight:normal;width:calc(850px / 6);}
 
 .fl span:first-of-type {display:block; font-weight:bold;}
 
-.poppyshine, .po {color:#669966;}
+.poppyshine, .xpo {color:#669966;}
 .pineblossom, .pi {color:#6699ff;}
-.whisperear, .wh {color:#9999cc;}
-.larkspring, .la {color:#787878;}
-.crookedlight, .cr {color:#ff6699;}
-.willowwisp, .wi {color:#6abcde;}
-.houndpaw, .ho {color:#661c10;}
+.larkspring, .xla {color:#787878;}
+.crookedlight, .xcr {color:#ff6699;}
+.willowwisp, .xwi {color:#6abcde;}
+.houndpaw, .xho {color:#661c10;}
 
 .cherish, .ch {color:#ff9933;}
+.whisperear, .xwh {color:#9999cc;}
