@@ -1,17 +1,18 @@
 .xa {font-family: 'Times New Roman'; width:900px; height:auto; margin:auto;text-align:center;font-weight:bold;display:flex;flex-wrap:wrap; justify-content:center;}
-.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/zsQFdwN.png);background-size: contain; background-repeat:no-repeat;background-position:center; flex-basis: 100%;width: 850px;height: 304px; flex-grow: 1;}
+.xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/7z25o84.png);background-size: contain; background-repeat:no-repeat;background-position:center; flex-basis: 100%;width: 850px;height: 304px; flex-grow: 1;}
 .xb {font-family: 'Times New Roman'; display:block; text-align:center; width: 900px; flex-grow: 1;}
 
-.xa .fl {font-weight:normal;width:calc(850px / 6);}
+.xa .xf {font-weight:normal;width:calc(850px / 6);}
 
-.fl span:first-of-type {display:block; font-weight:bold;}
+.xf span:first-of-type {display:block; font-weight:bold;}
 
 .poppyshine, .xpo {color:#669966;}
 .pineblossom, .xpi {color:#6699ff;}
 .larkspring, .xla {color:#787878;}
-.crookedlight, .xcr {color:#ff6699;}
 .willowwisp, .xwi {color:#6abcde;}
 .houndpaw, .xho {color:#661c10;}
+.blazeburn, .xbl {color:#ff6600;}
 
 .cherish, .ch {color:#ff9933;}
 .whisperear, .xwh {color:#9999cc;}
+.crookedlight, .xcr {color:#ff6699;}
