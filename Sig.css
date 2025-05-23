@@ -2,7 +2,7 @@
 .xs {font-family: 'Times New Roman'; display:block; text-align:center; background: url(https://i.imgur.com/QJFmfGH.png);background-size: contain; background-repeat:no-repeat;background-position:center; flex-basis: 100%;width: 850px;height: 370px; flex-grow: 1;}
 .xb {font-family: 'Times New Roman'; display:block; text-align:center; width: 900px; flex-grow: 1;}
 
-.xa .xf {font-weight:normal;width:calc(850px / 4);}
+.xa .xf {font-weight:normal;width:calc(850px / 5);}
 
 .xf span:first-of-type {display:block; font-weight:bold;}
 
